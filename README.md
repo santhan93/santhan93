@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santhan93
+- 👋 Hi, I’m @Santhan Rao
 - 👀 I’m interested in ... continuous learning
 - 🌱 I’m currently learning ...Core Java and Selenium
 - 💞️ I’m looking to collaborate with ... passionate people who are interested in learning latest technologies
